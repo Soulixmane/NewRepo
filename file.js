@@ -2,4 +2,4 @@ function write(){
  return ('hello world')
 }
 
-write()
+write();
