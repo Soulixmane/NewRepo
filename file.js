@@ -5,3 +5,7 @@ function write(){
 write();
 
 function name(){}
+
+function newFunction(){
+
+}
