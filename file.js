@@ -3,3 +3,5 @@ function write(){
 }
 
 write();
+
+function name(){}
